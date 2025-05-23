@@ -1,6 +1,6 @@
-# HPSS: Heuristic Prompting Strategy Search for LLM-as-a-Judge
+# HPSS: Heuristic Prompting Strategy Search for LLM Evaluators
 
-This is the official implementation of HPSS: Heuristic Prompting Strategy Search for LLM-as-a-Judge. 
+This is the official implementation of HPSS: Heuristic Prompting Strategy Search for LLM Evaluators. [Our Paper](https://arxiv.org/abs/2502.13031) 
 
 ## ⚙️ Requirements
 
@@ -112,3 +112,16 @@ python hpss.py
 
 After running the scripts, you can find the results saved in `hpss_results/`.
 
+
+## 👏 Citation
+
+```
+@article{wen2025hpss,
+  title={HPSS: Heuristic Prompting Strategy Search for LLM Evaluators},
+  author={Wen, Bosi and Ke, Pei and Sun, Yufei and Wang, Cunxiang and Gu, Xiaotao and Zhou, Jinfeng and Tang, Jie and Wang, Hongning and Huang, Minlie},
+  journal={arXiv preprint arXiv:2502.13031},
+  year={2025}
+}
+```
+
+Please kindly cite our paper if this paper and the codes are helpful.
