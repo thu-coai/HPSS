@@ -1,6 +1,6 @@
 # HPSS: Heuristic Prompting Strategy Search for LLM Evaluators
 
-This is the official implementation of HPSS: Heuristic Prompting Strategy Search for LLM Evaluators. [Our Paper](https://arxiv.org/abs/2502.13031) 
+This is the official implementation of **HPSS: Heuristic Prompting Strategy Search for LLM Evaluators**. [Our Paper](https://arxiv.org/abs/2502.13031) 
 
 ## ⚙️ Requirements
 
