@@ -1,0 +1,20 @@
+import argparse
+inference_parser = argparse.ArgumentParser()
+inference_parser.add_argument('--base_prompt', type=str, default="")
+inference_parser.add_argument('--input_file', type=str, default="")
+inference_parser.add_argument('--save_file', type=str, default="")
+inference_parser.add_argument('--aspect', type=str, default="")
+    
+inference_parser.add_argument('--criteria', type=str, default="")
+inference_parser.add_argument('--reference', action='store_true')
+inference_parser.add_argument('--metrics', action='store_true')
+inference_parser.add_argument('--example', type=str, default="")
+inference_parser.add_argument('--autocot', type=str, default="")
+    
+inference_parser.add_argument('--max', type=str, default='3')
+inference_parser.add_argument('--valid', action='store_true')
+inference_parser.add_argument('--dataset', type=str, default="")
+inference_parser.add_argument('--model', type=str, default="")
+inference_parser.add_argument('--model_path', type=str, default="")
+inference_parser.add_argument('--temperature', type=float, default=0.0)
+inference_parser.add_argument('--seed', type=int, default=42)

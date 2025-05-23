@@ -1,0 +1,17 @@
+base_prompt = """[Conversation History]
+{context}
+
+[Corresponding Fact]
+{fact}
+
+[The Start of the Response]
+{response}
+[The End of the Response]
+
+Here are some rules of the evaluation:
+1. Your evaluation should consider the {aspect} of the response. {criteria}
+2. Be as objective as possible.
+
+[Instruction]
+Please act as an impartial judge and evaluate the quality of the response for the next turn in the conversation displayed above on its {aspect}. The response concerns an interesting fact, which will be provided as well. Begin your evaluation by providing a short explanation. After providing your explanation, you must rate the response on a scale of {min} to {max} by strictly following this format: "[[rating]]", for example: "Rating: [[{max}]]".
+"""

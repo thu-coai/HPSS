@@ -1,0 +1,4 @@
+{
+    "informativeness": "informativeness : The extent to which the sentence conveys meaningful, relevant, and precise information that directly addresses the content of the structured data expression.",
+    "naturalness": "naturalness : The degree to which the generated sentence flows smoothly, sounds like it could be produced by a native speaker, and is free from awkward phrasing or unnatural word choices."
+}

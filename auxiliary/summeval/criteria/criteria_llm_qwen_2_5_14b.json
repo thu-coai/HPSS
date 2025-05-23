@@ -1,0 +1,6 @@
+{
+    "coherence": "coherence : The summary maintains a logical flow of information, accurately reflecting the sequence and relationship of events, ideas, or arguments presented in the original article without introducing contradictions or unnecessary information.",
+    "consistency": "consistency : The summary accurately reflects the content, tone, and key points of the original article without adding, removing, or altering significant information.",
+    "fluency": "fluency : The text flows naturally and is easy to read, with proper sentence structure and transitions between ideas.\nfluency : The summary maintains a consistent tone and style appropriate for the content and audience.\nfluency : The use of vocabulary is accurate and appropriate, avoiding unnecessary jargon or overly complex terms.\nfluency : The summary adheres to grammatical rules, including correct punctuation, spelling, and syntax.\nfluency : The text is coherent, with clear and logical connections between sentences and paragraphs.\nfluency : The summary is concise, avoiding redundancy and unnecessary elaboration while still conveying the essential information.",
+    "relevance": "relevance : The summary accurately captures the main points and essence of the news article without including irrelevant details or omitting crucial information."
+}

@@ -1,0 +1,6 @@
+{
+    "coherence": "Coherence: Measure the quality of all sentences of the summary collectively, to fit together and sound naturally. Consider the quality of the summary as a whole.",
+    "consistency": "Consistency: Measure whether the facts in the summary are consistent with the facts in the article. Consider whether the summary does reproduce all facts accurately and does not make up untrue information.",
+    "fluency": "Fluency: Measure the quality of individual sentences of the summary, whether they are well-written and grammatically correct. Consider the quality of individual sentences.",
+    "relevance": "Relevance: Measure how well the summary captures the key points of the article. Consider whether all and only the important aspects are contained in the summary."
+}

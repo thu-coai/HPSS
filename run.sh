@@ -1,0 +1,13 @@
+python hpss.py \
+    --model qwen_2_5_14b \
+    --dataset topical_chat \
+    --budget 50 \
+    --beam_size 5 \
+    --seed 2 \
+    --temperature 5.0 \
+    --lambda_ 4.0 \
+    --rho 0.2 \
+    --g 2 \
+    --initiation_path initiation/metrics \
+    --output_path hpss_results \
+    --aspect coherence
